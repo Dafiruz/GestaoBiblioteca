@@ -1,0 +1,64 @@
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Login.resources
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Properties.Resources.resources
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csproj.GenerateResource.Cache
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.sdf
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.exe
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.pdb
+C:\Users\PSI1\AppData\Local\Temporary Projects\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Registar.resources
+G:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.exe
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.pdb
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.exe
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.pdb
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.sdf
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Properties.Resources.resources
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csproj.GenerateResource.Cache
+F:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.exe
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.pdb
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csprojResolveAssemblyReference.cache
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Login.resources
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Properties.Resources.resources
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Registar.resources
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Sugestoes.resources
+G:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csproj.GenerateResource.Cache
+G:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.sdf
+G:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+G:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.exe
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.pdb
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Properties.Resources.resources
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csproj.GenerateResource.Cache
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.sdf
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmLogin.resources
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmPlanta.resources
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmRegistar.resources
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmSugestoes.resources
+C:\Users\PSI1\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Requisitar.resources
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmLogin.resources
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmPlanta.resources
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmRegistar.resources
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Requisitar.resources
+C:\Users\Jane\Desktop\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmSugestoes.resources
+F:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.sdf
+F:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+F:\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csprojResolveAssemblyReference.cache
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmLogin.resources
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Properties.Resources.resources
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmRegistar.resources
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.Requisitar.resources
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmSugestoes.resources
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.csproj.GenerateResource.Cache
+F:\GestaoBiblioteca\GestaoBiblioteca\obj\x86\Debug\GestaoBiblioteca.frmPlanta.resources
